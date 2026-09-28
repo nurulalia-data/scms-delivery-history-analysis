@@ -55,7 +55,7 @@ SCMS Delivery History/
 ├── notebook/
 │   └── SCMS_Delivery_History_Analysis.ipynb
 ├── dashboard/
-│   ├── SCMS_Delivery_History.pbix
+│   ├── SUPPLY CHAIN.pbix
 │   ├── dashboard-page-1.png
 │   └── dashboard-page-2.png
 └── README.md
