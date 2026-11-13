@@ -46,6 +46,17 @@ The Power BI dashboard presents supply chain delivery performance across:
 
 The dashboard includes interactive slicers for **Country, Year, and Product Group**.
 
+
+## Dashboard Preview
+
+### Page 1: Supply Chain Delivery Performance
+
+![Supply Chain Delivery Performance](dashboard/1.supply%20chain%20delivery%20performance.png)
+
+### Page 2: Product and Value Analysis
+
+![Product and Value Analysis](dashboard/2.Product%20and%20Value%20Analysis.png)
+
 ## Project Structure
 
 ```text
